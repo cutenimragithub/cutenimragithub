@@ -22,6 +22,14 @@ I am a dedicated Frontend Developer with 2 years of experience in crafting respo
 
 ---
 
+
+### 💼 Work Experience
+- **Frontend Developer** | IconAF Pakistan
+  - Worked on enterprise-level projects using **React, Next.js, and TypeScript**.
+  - Integrated complex **REST APIs** using **React Query** for seamless data flow.
+  - Built reusable UI components using **Radix UI and Ant Design** to improve user experience.
+  - Collaborated in an Agile environment to deliver high-quality features.
+
 ### ⚡ Technologies
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
