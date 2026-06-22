@@ -26,8 +26,12 @@ I am a dedicated Frontend Developer with 2 years of experience in crafting respo
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cutenimragithub&show_icons=true&theme=radical&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cutenimragithub&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cutenimragithub&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cutenimragithub&theme=radical&hide_border=true" />
 </p>
 
 ---
